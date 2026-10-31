@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 My Web Projects & Tools
 
-<!--
-**bestattraction/bestattraction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my collection of free, useful web utilities and projects.
 
-Here are some ideas to get you started:
+### 📝 [WordCountDesk](https://wordcountdesk.com)
+**URL:** [https://wordcountdesk.com](https://wordcountdesk.com)  
+A 100% private, client-side writing and text analysis tool. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Features:**
+- Word, character, sentence, and paragraph counter in real-time.
+- Flesch reading ease, readability score, and reading time estimation.
+- Text comparison (Diff Checker), duplicate line remover, and citation generator (APA, MLA, Chicago).
+- 100% browser-based processing (no text data uploaded to servers).
+
+---
+*More web tools coming soon!*
